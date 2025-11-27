@@ -15,6 +15,8 @@ Prepared final dataset with consistent pricing, discounting, and rating metrics.
 
 Database: https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike
 
+Used Molab/Marimo for coding part and graphs
+
 Key Findings
 1. Pricing Strategy – Nike is Premium, Adidas is Mid-Price
 Supported by the listing price distribution graph on page 3 .
